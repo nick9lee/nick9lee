@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 💻 Currently Interning at Arcurve Inc.
+- 📫 Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/nick-lee-a75980139/)
+
+
+![](https://komarev.com/ghpvc/?username=nick9lee&color=cddef)
+
 <!--
 **nick9lee/nick9lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
