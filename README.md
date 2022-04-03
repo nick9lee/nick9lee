@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 💻 Currently Interning at Arcurve Inc.
+- 💻 Currently Interning at [Arcurve Inc.](https://www.arcurve.com/)
 - 📫 Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/nick-lee-a75980139/)
 
 
