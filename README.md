@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- 💻 Currently Interning at [Arcurve Inc.](https://www.arcurve.com/)
+- joining Amazon as a software Development intern soon!
+- 💻 Previously a Software Development intern at [Arcurve Inc.](https://www.arcurve.com/)
 - 📫 Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/nick-lee-a75980139/)
 
 
