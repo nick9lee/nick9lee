@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-- joining Amazon as a software Development intern soon!
+
+- Software Engineering Student at the University of Calgary (graduating May 2023 :crossed_fingers:)
+- 💻 Previously a Software Development Engineering intern at Amazon on the Automated Profitability Management, Supplier Contract Optimization (APM - SCO) team.
 - 💻 Previously a Software Development intern at [Arcurve Inc.](https://www.arcurve.com/)
 - 📫 Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/nick-lee-a75980139/)
 
