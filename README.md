@@ -9,6 +9,7 @@ I'm Nick, a Software Engineering Student at the University of Calgary with plans
 Previous Experience
 - :memo: Software Development Engineering intern at Amazon on the Automated Profitability Management, Supplier Contract Optimization (APM - SCO) team.
 - 💻 Software Development intern at [Arcurve Inc.](https://www.arcurve.com/)
+- 🌱 Turf Care member at Silver Springs Golf and Country Club.
 
 ![](https://komarev.com/ghpvc/?username=nick9lee&color=CCD1E4)
 
