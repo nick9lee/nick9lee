@@ -1,12 +1,14 @@
 ### Hi there 👋
 
-I'm Nick, a Software Engineering Student at the University of Calgary with plans to graduate May 2023 :crossed_fingers:
+I'm Nick, a Software Engineer based in Vancouver, where I work at Amazon as an SDE.
 
 📫 Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/nick-lee-a75980139/)
 
-🔭 Check out [nick9lee.me](https://nick9lee.me/) for more
+🔭 Check out [nick9lee.me](https://nick9lee.me/) for more.
 
-Previous Experience
+Experience
+- :heavy_dollar_sign: Currently I am a SDE on the Amazon Fees team.
+- :mortar_board: Graduated from the University of Calgary with a degree in Software Engineering May 2023.
 - :memo: Software Development Engineering intern at [Amazon](https://sell.amazon.com/tools/seller-central) on the Automated Profitability Management, Supplier Contract Optimization (APM - SCO) team.
 - 💻 Software Development intern at [Arcurve Inc.](https://www.arcurve.com/)
 - 🌱 Turf Care member at [Silver Springs Golf and Country Club](https://www.silverspringsgolfclub.com/).
