@@ -7,7 +7,7 @@ I'm Nick, a Software Engineer based in Vancouver, where I work at Amazon as an S
 🔭 Check out [nick9lee.me](https://nick9lee.me/) for more.
 
 Experience
-- :heavy_dollar_sign: Currently I am a SDE on the Amazon Fees team.
+- :heavy_dollar_sign: Currently I am a SDE on the Amazon Seller Fees team.
 - :mortar_board: Graduated from the University of Calgary with a degree in Software Engineering May 2023.
 - :memo: Software Development Engineering intern at [Amazon](https://sell.amazon.com/tools/seller-central) on the Automated Profitability Management, Supplier Contract Optimization (APM - SCO) team.
 - 💻 Software Development intern at [Arcurve Inc.](https://www.arcurve.com/)
